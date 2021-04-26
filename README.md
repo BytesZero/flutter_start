@@ -2,6 +2,8 @@
 
 ![image](https://user-images.githubusercontent.com/8764899/115984572-573cfb80-a5da-11eb-82e7-8b69fb200f81.png)
 
+- [Xmind 脑图源文件](https://github.com/yy1300326388/flutter_start/blob/main/Flutter%20%E5%85%A5%E9%97%A8%E5%BF%85%E5%A4%87%E8%B5%84%E6%96%99.xmind.zip)
+
 
 ## 我的入门学习总结
 
